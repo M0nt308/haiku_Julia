@@ -13,3 +13,7 @@ Software is like that.
 Our daily stand up
 Managers attend. Involved,
 But not committed
+
+Build has been deployed
+Is available for test
+Please handle with care
